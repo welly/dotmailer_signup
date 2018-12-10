@@ -1,0 +1,4 @@
+name: Dotmailer Sign-up Form
+type: module
+description: Adds a simple Dotmailer contact signup form block.
+core: 8.x

@@ -1,0 +1,3 @@
+services:
+  dotmailer_signup_form_block.dotmailer_signup_form_block_services:
+    class: Drupal\dotmailer_signup_form_block\DotmailerAPI

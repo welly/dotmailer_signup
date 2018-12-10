@@ -1,0 +1,6 @@
+dotmailer.admin_settings_form:
+  title: 'Dotmailer settings'
+  route_name: dotmailer.admin_settings_form
+  description: 'API credentials for Dotmailer.'
+  parent: system.admin_config_system
+  weight: 99
